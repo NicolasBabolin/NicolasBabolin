@@ -7,8 +7,10 @@
 
 <br>
 
-<div style="display: inline_block">
+<div>
+  <a href="https://github.com/NicolasBabolin">
   <img align = "right" height="121.66px" width="166px" src="https://c.tenor.com/0GlG1seMYBcAAAAC/hi-spiderman.gif"> <!-- 498 x 365 -->
+  </a>
 </div>
 
 ##
