@@ -1,4 +1,4 @@
-<div>
+<div align= "center">
   <a href="https://github.com/NicolasBabolin">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasBabolin&count_private=true&show_icons=true&theme=tokyonight">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBabolin&layout=compact&theme=tokyonight">
